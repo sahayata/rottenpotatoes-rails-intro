@@ -43,3 +43,5 @@ class MoviesController < ApplicationController
   end
 
 end
+
+table#movies th
