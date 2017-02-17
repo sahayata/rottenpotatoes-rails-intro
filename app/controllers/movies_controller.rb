@@ -44,4 +44,3 @@ class MoviesController < ApplicationController
 
 end
 
-table#movies th
